@@ -257,5 +257,4 @@ Across training, the model achieved:
 - Sim-to-real transfer on a physical quadrotor
 
 # Authors
-Santhoshi Karri <br>
-Yoojin Shin
+Santhoshi Karri
